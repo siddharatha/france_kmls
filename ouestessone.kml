@@ -155,13 +155,13 @@
         <styleUrl>#poly-3949AB-1200-76-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-3949AB-6401-76-nodesc-normal">
+    <Style id="poly-3949AB-1901-130-nodesc-normal">
       <LineStyle>
         <color>ffab4939</color>
-        <width>6.401</width>
+        <width>1.901</width>
       </LineStyle>
       <PolyStyle>
-        <color>4cab4939</color>
+        <color>82ab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -169,13 +169,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-3949AB-6401-76-nodesc-highlight">
+    <Style id="poly-3949AB-1901-130-nodesc-highlight">
       <LineStyle>
         <color>ffab4939</color>
-        <width>9.6015</width>
+        <width>2.8515</width>
       </LineStyle>
       <PolyStyle>
-        <color>4cab4939</color>
+        <color>82ab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -183,14 +183,14 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-3949AB-6401-76-nodesc">
+    <StyleMap id="poly-3949AB-1901-130-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-3949AB-6401-76-nodesc-normal</styleUrl>
+        <styleUrl>#poly-3949AB-1901-130-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-3949AB-6401-76-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-3949AB-1901-130-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-673AB7-1200-76-nodesc-normal">
@@ -387,7 +387,7 @@
       <name>ouestessone_fromosm</name>
       <Placemark>
         <name>Angervilliers</name>
-        <styleUrl>#poly-3949AB-6401-76-nodesc</styleUrl>
+        <styleUrl>#poly-3949AB-1901-130-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
